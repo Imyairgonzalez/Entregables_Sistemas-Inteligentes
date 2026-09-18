@@ -1,11 +1,13 @@
 # Entregables Sistemas Inteligentes
 
 Secciones de tareas de la Materia.
+
+```text
 .
 ├── hill_climbing
 ├── metro_cdmx
 └── README.md
-
+```
 ## 🏫 Información Académica
 
 * **Universidad:** [Universidad Nacional Autonoma de Mexico]
