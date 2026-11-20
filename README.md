@@ -12,8 +12,8 @@ Secciones de tareas de la Materia.
 │   └── tarea_sistemas.ipynb
 └── README.md
 ´´´
-* **Universidad:** [Universidad Nacional Autonoma de Mexico]
-* **Materia:** [Sistemas Inteligentes]
-* **Profesor:** [Jose Ricardo Mendoza Villar]
-* **Nombre:** [Eduardo Yair Gonzalez Lopez]
+* Universidad Nacional Autonoma de Mexico
+* Materia:Sistemas Inteligentes
+* Profesor:Jose Ricardo Mendoza Villar
+* Nombre: Eduardo Yair Gonzalez Lopez
 
