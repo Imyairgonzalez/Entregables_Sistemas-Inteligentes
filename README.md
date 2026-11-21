@@ -1,8 +1,5 @@
-# Entregables Sistemas Inteligentes
-
-Secciones de tareas de la Materia.
-
-```text
+# Entregables de Sistemas Inteligentes
+## Secciones de las Tareas
 .
 ├── hill_climbing
 │   └── hill_climbing.ipynb
@@ -16,4 +13,12 @@ Secciones de tareas de la Materia.
 * Materia:Sistemas Inteligentes
 * Profesor:Jose Ricardo Mendoza Villar
 * Nombre: Eduardo Yair Gonzalez Lopez
+
+
+
+
+
+
+
+
 
